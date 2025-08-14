@@ -17,6 +17,9 @@ Review and verify the code before using it; I take no responsibility for how it 
 The project is intentionally simple: just a single HTML file and a short Python script.
 Use it only after you’ve checked that it works as expected in your environment.
 
+## Screenshots
+
+![Screenshots](Screenshots.png)
 
 ## Prerequisites
 
