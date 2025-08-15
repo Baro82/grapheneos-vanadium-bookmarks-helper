@@ -17,6 +17,8 @@ Review and verify the code before using it; I take no responsibility for how it 
 The project is intentionally simple: just a single HTML file and a short Python script.
 Use it only after you’ve checked that it works as expected in your environment.
 
+Inside the `toSync` folder, you’ll find an example of exported bookmarks: `bookmarks_data.js`. This is just a sample, the same one shown in the third screenshot below.
+
 ## Screenshots
 
 ![Screenshots](Screenshots.png)
