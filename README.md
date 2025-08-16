@@ -80,7 +80,7 @@ You have two options:
 
    This will generate the `bookmarks_data.js` file in the `toSync` folder with updated bookmarks data and favicons embedded
 
-   Copy both files to the Vanadium scope storage folder.
+   Copy both files `bookmarks.html` and `bookmarks_data.js` to the Vanadium scope storage folder.
 
 3. **Open the bookmarks in Vanadium**
 
