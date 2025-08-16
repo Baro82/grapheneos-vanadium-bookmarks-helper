@@ -78,7 +78,7 @@ You have two options:
 
        python export_bookmarks.py
 
-   This will generate in the `toSync` the file `bookmarks_data.js` with updated bookmarks data and favicons embedded
+   This will generate the `bookmarks_data.js` file in the `toSync` folder with updated bookmarks data and favicons embedded
 
    Copy both files to the Vanadium scope storage folder.
 
